@@ -26,11 +26,11 @@ function Index3() {
         <Features3 />
         <Projects3 />
         <Newsletter3 />
-        <Team3 />
+        {/* <Team3 /> */}
         <PricingT3 />
         <Testimonial3 />
         <Blog3 />
-        <Clients3 />
+        {/* <Clients3 /> */}
         <GetInTouch3 />
         <Footer3 />
       </div>
